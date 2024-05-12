@@ -11,9 +11,9 @@
 
 -->
 
-- 🔭 I’m currently working at TCS
-- 🌱 I’m currently learning Angular ,React ,Spring Boot ,Azure ,AWS
-- 💬 Ask me about Java stuffs
+- 🔭 I’m currently working at Amdocs (Ex-TCSer)
+- 🌱 I’m currently learning Angular ,React ,Spring-Boot ,AWS
+- 💬 Ask me about Angular stuffs
 - 📫 How to reach me: koustubh.mishra98@gmail.com
 - 😄 Pronouns: KOS
-- ⚡ Fun fact: spends much of the time listning music...
+- ⚡ Fun fact: spends much of the time listning music & watching Anime...
