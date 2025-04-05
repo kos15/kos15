@@ -24,4 +24,4 @@
 - 🚀 Building beautiful UIs, exploring modern dev tools
 - 📚 Always learning: Angular internals, Signals, React, AWS
 - ✍️ Sharing dev insights on LinkedIn, especially around Angular & GenAI
-- 🎨 Anime sketcher | 🏍️ Rider | 🎧 Music keeps me going
+- 🎨 Anime sketcher | 🏍️ Rider | 🎧 Music keeps me going | 🏋️‍♂️ Gym is my reset button
